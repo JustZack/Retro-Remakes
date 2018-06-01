@@ -7,4 +7,6 @@ I plan to build:
     Snake (GFX)
     Pong (CLI/GFX)
     Space Invaders (CLI/GFX) 
-    Tetris (CLI/GFX)   
+    Tetris (CLI/GFX)  
+
+For Tetris, Space Invaders, and PONG I want to use a console 'graphics' library which i will write myself for fun and function. 
